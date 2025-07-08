@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "railway:deploy": "chmod +x railway-deploy.sh && ./railway-deploy.sh",
+    "railway:logs": "railway logs",
+    "railway:open": "railway open",
+    "railway:vars": "railway variables",
+    "railway:domain": "railway domain"
+  }
+}
